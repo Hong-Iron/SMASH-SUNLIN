@@ -1,0 +1,34 @@
+{
+ "region": "경북 포항시 북구 흥해읍",
+ "nameEn": "Sunlin University",
+ "added": "2026-11-01T02:27",
+ "rank": 252,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "HANDONG",
+   "campus": "한동대학교",
+   "km": 5.2
+  },
+  {
+   "code": "POHANG",
+   "campus": "포항대학교",
+   "km": 7.0
+  },
+  {
+   "code": "POSTECH",
+   "campus": "포항공과대학교",
+   "km": 8.2
+  },
+  {
+   "code": "UIDUK",
+   "campus": "위덕대학교",
+   "km": 9.8
+  },
+  {
+   "code": "DGU-WISE",
+   "campus": "동국대학교 WISE캠퍼스",
+   "km": 28.4
+  }
+ ]
+}
